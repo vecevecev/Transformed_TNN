@@ -1,8 +1,8 @@
 # Transformed_TNN
 
-Codes for Transformed TNN
+Codes for Transformed TNN.
 
-The Framelet method is implemented from https://github.com/TaiXiangJiang/Framelet-TNN
+The Framelet method is implemented from https://github.com/TaiXiangJiang/Framelet-TNN.
 
 * The main/ltrc_tnn_transform.m is the main script.
 
